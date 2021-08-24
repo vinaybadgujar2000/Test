@@ -2,4 +2,4 @@ Hello World!
 I am Vinay
 I am the FrrGuy VB
 my family name Sonu
-my dream is to become DevOps engineer in US
+Devops, AWs, GCP, Digital Ocean
