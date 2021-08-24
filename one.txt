@@ -1,5 +1,6 @@
 Hello World! 
 I am Vinay
-I am the FrrGuy VB
+I am currentl in vcet
 my family name Sonu
+
 Devops, AWs, GCP, Digital Ocean
