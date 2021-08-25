@@ -12,7 +12,8 @@ Adding GIT Comparisons Lectures
 
 ## Contribution
 Fork the Repo nad raise pull requet for review
-Adding and Learning Git Rebase and Advance part
+Adding and Learning Git Rebase and Advance part.
+I have done so much of work today.
 
 ## Github Content
 Comparison with Repo
