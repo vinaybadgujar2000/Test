@@ -1,2 +1,4 @@
 Hi I am Third
+
+Hi I am modifing file before rebase
 second
