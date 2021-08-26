@@ -3,11 +3,12 @@ Hello World!
 Hi, I am modifing the file before rebase.
 I am Vinay
 
+Doing some changes in local
+
 Hi, Going to insert conflicts in my feature branch
 I am currentl in vcet
 my family name Sonu
 
 Devops, AWs, GCP, Digital Ocean level 3
 IT Organization
-	Thanks to all my friends.
-	
+Thanks to all my friends.
