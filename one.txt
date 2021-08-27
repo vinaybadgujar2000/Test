@@ -4,6 +4,7 @@ Hi, I am modifing the file before rebase.
 I am Vinay
 
 Doing some changes in local
+Adding important NOtes on Git Stash.
 
 Hi, Going to insert conflicts in my feature branch
 I am currentl in vcet
