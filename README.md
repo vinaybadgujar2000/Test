@@ -17,4 +17,5 @@ Adding and Learning Git Rebase and Advance part.
 I have done so much of work today.
 
 ## Github Content
-Comparison with Repo
+Comparison with Repo.
+Learning New things on Git like Stash.
