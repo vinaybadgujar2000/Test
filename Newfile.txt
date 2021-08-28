@@ -1,2 +1,5 @@
 #Adding new file in Git Project.
 This file is still not tracked by GIT.
+Today 28.08.2021:
+I am doing last part of git stash which is
+adding stash in new branch.

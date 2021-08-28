@@ -8,3 +8,5 @@ Adding important content for learning git stash.
 
 Hi going to insert in mybranch branch.
 
+today's date is 28-02-2021
+and I am doing last part of git stash.
